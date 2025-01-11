@@ -104,8 +104,8 @@ Driving the new
 Revolutions await  
 
 # 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo musical, com letras coerentes com a temática fornecida pelo prompt, apesar da música gerada não parecer com a música fornecida da banda Iron Maiden.   
 
-No entanto, o resultado ficou surpreendente para o estilo de heavy metal dado o prompt bastante curto.  
-
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo musical, com letras coerentes com a temática fornecida pelo prompt.   
+O resultado ficou dentro do estilo de heavy metal, com as mesmas características gerais da música fornecida (powerful, fast-paced), apesar de a música gerada não ser exatamente uma cópia da música fornecida.  
+O resultado foi surpreendente, em minha visão, dado o prompt bastante curto.  
 Não dá para notar que se trata de uma música gerada por IA.  
