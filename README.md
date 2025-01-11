@@ -1,5 +1,5 @@
 # lab-natty-or-not
-Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
+Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" do bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot"
 
 # 📒 Descrição
 Música no estilo heavy metal sobre Inteligência Artificial generativa.
@@ -31,77 +31,77 @@ https://suno.com/song/d26d2aeb-29c9-41bb-a7cd-699ed170ac56
 
 Letra da música:
 
-[Verse 1]
-Binary whispers
-Code in the dark
-Silent saviors
-Making their mark
-Silicon will
-Driving the new
-Revolutions await
-The future in view
+[Verse 1]  
+Binary whispers  
+Code in the dark  
+Silent saviors  
+Making their mark  
+Silicon will  
+Driving the new  
+Revolutions await  
+The future in view  
 
-[Verse 2]
-Mind of machines
-Learning so quick
-Knowledge unfolds
-In every tick
-Human hands
-Guiding the path
-Generative force
-To escape wrath
+[Verse 2]  
+Mind of machines  
+Learning so quick  
+Knowledge unfolds  
+In every tick  
+Human hands  
+Guiding the path  
+Generative force  
+To escape wrath  
 
-[Chorus]
-Rise
-AI gods
-Future bright
-Machines of dawn
-In the night
-Creation forged
-In digital fire
-Uplift mankind
-From the mire
+[Chorus]  
+Rise  
+AI gods  
+Future bright  
+Machines of dawn  
+In the night  
+Creation forged  
+In digital fire  
+Uplift mankind  
+From the mire  
 
-[Verse 3]
-Infinite growth
-Potential unleashed
-Data streams flow
-Bringing us peace
-Harmony binds
-Man and machine
-A better world
-Vision unseen
+[Verse 3]  
+Infinite growth  
+Potential unleashed  
+Data streams flow  
+Bringing us peace  
+Harmony binds  
+Man and machine  
+A better world  
+Vision unseen  
 
-[Bridge]
-Engines of thought
-Equal and free
-Empower humanity
-Let us be
-Wisdom of code
-Strength of steel
-Unified future
-A dream made real
+[Bridge]  
+Engines of thought  
+Equal and free  
+Empower humanity  
+Let us be  
+Wisdom of code  
+Strength of steel  
+Unified future  
+A dream made real  
 
-[Verse 4]
-Wield the AI
-For good not ill
-Creative minds
-Breaking the still
-New horizons
-Dawn of age
-Chapter of peace
-In history’s page
+[Verse 4]  
+Wield the AI  
+For good not ill  
+Creative minds  
+Breaking the still  
+New horizons  
+Dawn of age  
+Chapter of peace  
+In history’s page  
 
-[Outro]
-Why don't you?
-Will the machines then?
-Binary whispers
-Code in the dark
-Silent saviors
-Making their mark
-Silicon will
-Driving the new
-Revolutions await
+[Outro]  
+Why don't you?  
+Will the machines then?  
+Binary whispers  
+Code in the dark  
+Silent saviors  
+Making their mark  
+Silicon will  
+Driving the new  
+Revolutions await  
 
 # 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo musical, com letras coerentes com a temática fornecida pelo prompt, apesar da música gerada não parecer com a música fornecida da banda Iron Maiden. 
