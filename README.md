@@ -24,6 +24,8 @@ A short 3min heavy metal song of in the style of "Caught Somewhere in Time" abou
 A ferramenta utiliza 2 créditos para gerar 2 opções de música.  
 Escolhi uma delas e apertei o botão "extend" para acrescentar um último pequeno trecho à música, para sair do padrão normal das músicas do estilo e também para verificar o comportamento da IA generativa.
 
+O título fornecido pela IA foi "Cybord Dawn", e foi alterado manualmente para "Revolutions Await".
+
 # 🚀 Resultados
 
 Link para a música:  
@@ -106,6 +108,9 @@ Revolutions await
 # 💭 Reflexão
 
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo musical, com letras coerentes com a temática fornecida pelo prompt.   
-O resultado ficou dentro do estilo de heavy metal, com as mesmas características gerais da música fornecida (powerful, fast-paced), apesar de a música gerada não ser exatamente uma cópia da música fornecida.  
+
+O resultado ficou dentro do estilo de heavy metal, com as mesmas características gerais da música fornecida (metal, heavy metal, powerful, fast-paced), apesar de a música gerada não ser exatamente uma cópia da música fornecida.  
+
 O resultado foi surpreendente, em minha visão, dado o prompt bastante curto.  
+
 Não dá para notar que se trata de uma música gerada por IA.  
