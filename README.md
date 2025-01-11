@@ -1,32 +1,33 @@
 # lab-natty-or-not
 Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" do bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot"
 
-# 📒 Descrição
+## 📒 Descrição
 Música no estilo heavy metal sobre Inteligência Artificial generativa.
 
-# 🤖 Tecnologias Utilizadas
+## 🤖 Tecnologias Utilizadas
 IA Generativa SUNO em sua versão gratuita.
 
-# 🧐 Processo de Criação
+## 🧐 Processo de Criação
 
 A IA Generativa SUNO na versão gratuita foi utilizada para criação da música.
 
 TENTATIVA INICIAL DE PROMPT:  
-A short 3min heavy metal song in the style of "Caught Somewhere in Time" by Iron Maiden about generative artificial intelligence and its positive impact to the future of society if used for good.
+
+**A short 3min heavy metal song in the style of "Caught Somewhere in Time" by Iron Maiden about generative artificial intelligence and its positive impact to the future of society if used for good.
 
 Após essa tentativa inicial, a ferramenta não gerou a música na versão gratuita e forneceu alguns avisos. Com isso, foram identificadas as seguintes limitações da IA generativa SUNO (pelo menos na versão gratuita):
 1. Prompt limitado a 200 caracteres.
 2. Não é permitido usar o nome de banda e/ou artista no prompt.
 
 Após limitar os caracteres e remover o nome da banda, o PROMPT FINAL foi:  
-A short 3min heavy metal song of in the style of "Caught Somewhere in Time" about generative artificial intelligence and its positive impact to the future of society if used for good.
+**A short 3min heavy metal song of in the style of "Caught Somewhere in Time" about generative artificial intelligence and its positive impact to the future of society if used for good.
 
 A ferramenta utiliza 2 créditos para gerar 2 opções de música.  
 Escolhi uma delas e apertei o botão "extend" para acrescentar um último pequeno trecho à música, para sair do padrão normal das músicas do estilo e também para verificar o comportamento da IA generativa.
 
 O título fornecido pela IA foi "Cybord Dawn", e foi alterado manualmente para "Revolutions Await".
 
-# 🚀 Resultados
+## 🚀 Resultados
 
 Link para a música:  
 [https://suno.com/song/d26d2aeb-29c9-41bb-a7cd-699ed170ac56](https://suno.com/song/79958570-e41c-40d6-914e-e471c374ab7e)
@@ -105,7 +106,7 @@ Silicon will
 Driving the new  
 Revolutions await  
 
-# 💭 Reflexão
+## 💭 Reflexão
 
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo musical, com letras coerentes com a temática fornecida pelo prompt.   
 
