@@ -11,14 +11,14 @@ IA Generativa SUNO em sua versão gratuita.
 
 A IA Generativa SUNO na versão gratuita foi utilizada para criação da música.
 
-Tentativa inicial de prompt:  
+TENTATIVA INICIAL DE PROMPT:  
 A short 3min heavy metal song in the style of "Caught Somewhere in Time" by Iron Maiden about generative artificial intelligence and its positive impact to the future of society if used for good.
 
 Após essa tentativa inicial, a ferramenta não gerou a música na versão gratuita e forneceu alguns avisos. Com isso, foram identificadas as seguintes limitações da IA generativa SUNO (pelo menos na versão gratuita):
 1. Prompt limitado a 200 caracteres.
 2. Não é permitido usar o nome de banda e/ou artista no prompt.
 
-Após limitar os caracteres e remover o nome da banda, o prompt final foi:  
+Após limitar os caracteres e remover o nome da banda, o PROMPT FINAL foi:  
 A short 3min heavy metal song of in the style of "Caught Somewhere in Time" about generative artificial intelligence and its positive impact to the future of society if used for good.
 
 A ferramenta utiliza 2 créditos para gerar 2 opções de música.  
