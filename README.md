@@ -22,7 +22,7 @@ Após limitar os caracteres e remover o nome da banda, o PROMPT FINAL foi:
 A short 3min heavy metal song of in the style of "Caught Somewhere in Time" about generative artificial intelligence and its positive impact to the future of society if used for good.
 
 A ferramenta utiliza 2 créditos para gerar 2 opções de música.  
-Escolhi uma delas e apertei o botão "extend" para acrescentar um último pequeno trecho à música, para sair do padrão normal das músicas do estilo e verificar o comportamento da IA generativa.
+Escolhi uma delas e apertei o botão "extend" para acrescentar um último pequeno trecho à música, para sair do padrão normal das músicas do estilo e também para verificar o comportamento da IA generativa.
 
 # 🚀 Resultados
 
