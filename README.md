@@ -19,13 +19,14 @@ Após essa tentativa inicial, a ferramenta não gerou a música na versão gratu
 1. Prompt limitado a 200 caracteres.
 2. Não é permitido usar o nome de banda e/ou artista no prompt.
 
-Após limitar os caracteres e remover o nome da banda, o PROMPT FINAL foi:  
+Após limitar os caracteres e remover o nome da banda, o **PROMPT FINAL** foi:  
+
 *A short 3min heavy metal song of in the style of "Caught Somewhere in Time" about generative artificial intelligence and its positive impact to the future of society if used for good.*
 
 A ferramenta utiliza 2 créditos para gerar 2 opções de música.  
 Escolhi uma delas e apertei o botão "extend" para acrescentar um último pequeno trecho à música, para sair do padrão normal das músicas do estilo e também para verificar o comportamento da IA generativa.
 
-O título fornecido pela IA foi "Cyborg Dawn". Alterei manualmente para "Revolutions Await" para combinar com a letra da música e ter mais impact.
+O título fornecido pela IA foi "Cyborg Dawn". Alterei manualmente para "Revolutions Await" para combinar com a letra da música e ter mais impacto.
 
 ## 🚀 Resultados
 
