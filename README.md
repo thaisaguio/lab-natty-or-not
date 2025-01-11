@@ -1,13 +1,13 @@
 # lab-natty-or-not
 Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
 
-📒 Descrição
+# 📒 Descrição
 Música no estilo heavy metal sobre Inteligência Artificial generativa.
 
-🤖 Tecnologias Utilizadas
+# 🤖 Tecnologias Utilizadas
 IA Generativa SUNO em sua versão gratuita.
 
-🧐 Processo de Criação
+# 🧐 Processo de Criação
 
 A IA Generativa SUNO na versão gratuita foi utilizada para criação da música.
 
@@ -24,7 +24,7 @@ A short 3min heavy metal song of in the style of "Caught Somewhere in Time" abou
 A ferramenta utiliza 2 créditos para gerar 2 opções de música.
 Escolhi uma delas e apertei o botão "extend" para acrescentar um último pequeno trecho à música, para sair do padrão normal das músicas do estilo e verificar o comportamento da IA generativa.
 
-🚀 Resultados
+# 🚀 Resultados
 
 Link para a música: 
 https://suno.com/song/d26d2aeb-29c9-41bb-a7cd-699ed170ac56
@@ -103,7 +103,7 @@ Silicon will
 Driving the new
 Revolutions await
 
-💭 Reflexão
+# 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo musical, com letras coerentes com a temática fornecida pelo prompt, apesar da música gerada não parecer com a música fornecida da banda Iron Maiden. 
 No entanto, o resultado ficou surpreendente para o estilo de heavy metal dado o prompt bastante curto.
 Não dá para notar que se trata de uma música gerada por IA.
