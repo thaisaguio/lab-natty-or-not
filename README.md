@@ -9,8 +9,6 @@ IA Generativa [SUNO](https://suno.com/) em sua versão gratuita.
 
 ## 🧐 Processo de Criação
 
-A IA Generativa [ SUNO](https://suno.com/) na versão gratuita foi utilizada para criação da música.
-
 **TENTATIVA INICIAL DE PROMPT:** 
 
 *A short 3min heavy metal song in the style of "Caught Somewhere in Time" by Iron Maiden about generative artificial intelligence and its positive impact to the future of society if used for good.*
