@@ -1,5 +1,7 @@
 # lab-natty-or-not
-Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" do bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot"
+Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
+
+ℹ️ NOTE: Este projeto foi criado para ser entregue no bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
 Música no estilo heavy metal sobre Inteligência Artificial generativa.
