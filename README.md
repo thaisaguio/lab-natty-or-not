@@ -97,7 +97,7 @@ Chapter of peace
 In history’s page  
 
 [Outro]  
-Why don't you?  
+Why then you?  
 Will the machines then?  
 Binary whispers  
 Code in the dark  
