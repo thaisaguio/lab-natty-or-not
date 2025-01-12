@@ -5,11 +5,11 @@ Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!" do bootcamp
 Música no estilo heavy metal sobre Inteligência Artificial generativa.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa SUNO em sua versão gratuita.
+IA Generativa [SUNO](https://suno.com/) em sua versão gratuita.
 
 ## 🧐 Processo de Criação
 
-A IA Generativa SUNO na versão gratuita foi utilizada para criação da música.
+A IA Generativa [ SUNO](https://suno.com/) na versão gratuita foi utilizada para criação da música.
 
 **TENTATIVA INICIAL DE PROMPT:** 
 
