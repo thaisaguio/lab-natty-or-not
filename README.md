@@ -1,10 +1,9 @@
-# Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
-## Criando música com IA generativa
+# Projeto IA Generativa - Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
 
 ℹ️ NOTE: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
-Música no estilo heavy metal sobre Inteligência Artificial generativa.
+Música criada com Inteligência Artificial (IA) generativa no estilo heavy metal sobre IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa [SUNO](https://suno.com/) em sua versão gratuita.
