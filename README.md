@@ -1,7 +1,7 @@
 # lab-natty-or-not
 Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
 
-ℹ️ NOTE: Este projeto foi criado para ser entregue no bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
+ℹ️ NOTE: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
 Música no estilo heavy metal sobre Inteligência Artificial generativa.
@@ -116,3 +116,11 @@ O resultado ficou dentro do estilo de heavy metal, com as mesmas característica
 O resultado foi surpreendente, em minha visão, dado o prompt bastante curto.  
 
 Não dá para notar que se trata de uma música gerada por IA.  
+
+## 👨‍💻 Autoria
+
+Thaisa Guio
+
+[LinkedIn](https://www.linkedin.com/thaisa-guio/) 
+
+<img src="/images/thaisa-guio.png" width="80">
