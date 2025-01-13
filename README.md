@@ -1,4 +1,5 @@
 # Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
+## Criando música com IA generativa
 
 ℹ️ NOTE: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
