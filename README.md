@@ -1,5 +1,4 @@
-# lab-natty-or-not
-Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
+# Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
 
 ℹ️ NOTE: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
