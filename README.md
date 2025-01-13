@@ -119,8 +119,7 @@ Não dá para notar que se trata de uma música gerada por IA.
 
 ## 👨‍💻 Autoria
 
-Thaisa Guio
-
+Thaisa Guio  
 [LinkedIn](https://www.linkedin.com/thaisa-guio/) 
 
 <img src="/images/thaisa-guio.png" width="80">
